@@ -5,6 +5,8 @@ I read an article on Medium written by Karthik Ponnam where he does a good job o
 
 He published his code which I cloned and subsequently edited to help me better understand how I could go from the hard coded set of List values in his example to a dynamic list retrieved from Firebase.
 
+If you are interested is seeing how this works, make a new flutter project and replace all of the code in main.dart with the main.dart in this repo.
+
 His article is here: https://medium.com/@KarthikPonnam/flutter-multi-select-choicechip-244ea016b6fa
 
 His repo is here: https://github.com/PonnamKarthik/MultiSelectChoiceChip
